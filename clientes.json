@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Joao Silva",
+    "telefone": "62999998888",
+    "endereco": "Av. Central, 500"
+  },
+  {
+    "nome": "Cliente Teste",
+    "telefone": "91999999999",
+    "endereco": "Rua do Cliente, 200"
+  },
+  {
+    "nome": "Rafael",
+    "telefone": "62991302830",
+    "endereco": "Rua RT Sete, 200"
+  }
+]

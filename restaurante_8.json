@@ -1,0 +1,17 @@
+{
+  "nome": "Restaurante Teste",
+  "email": "teste@restaurante.com",
+  "endereco": "Rua Teste, 100",
+  "menu": [
+    {
+      "numero_item": 1,
+      "descricao": "Hamburguer",
+      "preco": 25.0
+    },
+    {
+      "numero_item": 2,
+      "descricao": "Pizza",
+      "preco": 40.0
+    }
+  ]
+}

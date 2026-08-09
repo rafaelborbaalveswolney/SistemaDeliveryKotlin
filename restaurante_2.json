@@ -1,0 +1,12 @@
+{
+  "nome": "Hamburgueria Central",
+  "email": "contato@hamburgueria.com",
+  "endereco": "Avenida Central, 500",
+  "menu": [
+    {
+      "numero_item": 1,
+      "descricao": "X-Burguer",
+      "preco": 20.0
+    }
+  ]
+}

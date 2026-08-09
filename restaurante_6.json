@@ -1,0 +1,12 @@
+{
+  "nome": "Restaurante Pão 10",
+  "email": "pao10@gmail.com",
+  "endereco": "Av. cosmo, 10",
+  "menu": [
+    {
+      "numero_item": 1,
+      "descricao": "Rosca",
+      "preco": 2.0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "nome": "Restaurante Spock",
+  "email": "spock@gmail.com",
+  "endereco": "AV. estrela, 500",
+  "menu": [
+    {
+      "numero_item": 1,
+      "descricao": "Pizza Calabresa",
+      "preco": 45.0
+    },
+    {
+      "numero_item": 2,
+      "descricao": "Refrigerante",
+      "preco": 10.0
+    }
+  ]
+}

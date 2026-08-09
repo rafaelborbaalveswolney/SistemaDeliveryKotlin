@@ -1,0 +1,12 @@
+{
+  "nome": "Restaurante Amor ",
+  "email": "amor@gmail.com",
+  "endereco": "Av. amor, 50",
+  "menu": [
+    {
+      "numero_item": 1,
+      "descricao": "Macarrão",
+      "preco": 45.0
+    }
+  ]
+}
